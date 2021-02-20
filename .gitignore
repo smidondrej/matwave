@@ -1,0 +1,10 @@
+# IDEs setings
+.vscode/
+
+# Files
+*.png
+*.asv
+*.cm
+*.j2k
+*.ecw
+*.mat
